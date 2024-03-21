@@ -22,3 +22,5 @@ out
 # Misc
 yarn.lock
 yarn-error.log
+.vscode/settings.json
+startServer
